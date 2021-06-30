@@ -24,7 +24,7 @@ There are 2 parts of this app, one is Frontend Code which is written in React an
 ## Usage
 
 ## 1. Enter City Name <br/><br/>
-![Enter City Name](docs\enter-city-name.JPG)
+![Enter City Name](docs/enter-city-name.JPG)
 
 ## 2. Click on Search button <br/><br/>
-![Enter City Name](docs\weather-details.JPG)
+![Search button](docs/weather-details.JPG)
