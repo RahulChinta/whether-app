@@ -1,8 +1,4 @@
-.App {
-  text-align: center;
-}
-
-.App-header {
+.weather {
   background-color: #282c34;
   display: flex;
   flex-direction: column;
@@ -10,4 +6,14 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  font-weight: bolder;
+}
+
+.weather p {
+  margin: 1rem;
+  font-size:2rem;
+}
+
+.temp {
+    font-size: 5rem;
 }

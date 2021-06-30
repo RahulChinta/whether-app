@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.error-text {
+  color: #8e0e0e;
+  font-size: x-large;
+}

@@ -1,0 +1,54 @@
+.input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem;
+  font-size: x-large;
+}
+
+.input label {
+  font-weight: bold;
+  margin-right: 2rem;
+}
+
+.input input {
+  width: 10rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font: inherit;
+  padding-left: 1rem;
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+  background-color: #8a2b06;
+  border: 1px solid #8a2b06;
+  color: white;
+  padding: 0.25rem 2rem;
+  border-radius: 20px;
+  font-weight: bold;
+  margin-left: 2rem;
+}
+
+button:hover,
+button:active {
+  background-color: #641e03;
+  border-color: #641e03;
+}
+
+@media only screen and (max-width: 600px) {
+    .input {
+        flex-direction: column;
+        font-size: large;
+    }
+    .input label {
+        margin:1rem;
+    }
+    .input input {
+        margin: 1rem;
+    }
+    .input button {
+        margin: 1rem;
+    }
+  }
