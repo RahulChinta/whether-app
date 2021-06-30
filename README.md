@@ -13,11 +13,13 @@ There are 2 parts of this app, one is Frontend Code which is written in React an
 
 ### Frontend Code
 
+`git checkout  git@github.com:RahulChinta/whether-app.git`<br/>
 `npm install`<br/>
 `npm start`<br/><br/>
 
 ### Backend Code
 
+`git checkout git@github.com:RahulChinta/WeatherProjectNodejs.git`<br/>
 `npm install`<br/>
 `nodemon app.js`<br/><br/>
 
